@@ -1,2 +1,6 @@
 *.venv/***
 deliverable_4.ipynb
+data/titanic.csv
+modification.ipynb
+converted.csv
+test*
